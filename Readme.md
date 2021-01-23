@@ -1,0 +1,1 @@
+简单学习make命令的用法，阅读GNU Make手册，手敲手册中的示例Makefile，用git仓库保存一下
